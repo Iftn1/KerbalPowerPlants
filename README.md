@@ -1,6 +1,6 @@
 
 # KerbalPowerPlants
-<img width="4480" height="2080" alt="image" src="https://github.com/user-attachments/assets/35da38ee-f171-483e-989e-7963fc4d28f4" />
+<img width="4480" height="2080" alt="image" src="https://github.com/user-attachments/assets/5767239f-4873-4863-aa47-dd25dcd3d990" />
 
 ## Progress
 ✅ Complete | 🟧 Mesh in Progress | 🟨 Texture in Progress | 🟦 Configration In Progress
