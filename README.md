@@ -1,5 +1,5 @@
 
-# KerbalPowerPlants
+# Kerbal Power Plants
 <img width="4480" height="2080" alt="image" src="https://wiki.kerbalpowers.org/images/3/35/KPP_1.png" />
 
 ## Features
@@ -11,7 +11,7 @@
 ## FAQ
 
 Q: Do you plan any more parts?
-A: The J-68(reversible afterburner) was not completed on time for release and will be added in a future update. Additional parts are being considered.
+A: The J-68 (reversible afterburner) was not completed on time for release and will be added in a future update. Additional parts are being considered.
 
 Q: I don't like the balance of [x] part
 A: Kerbal Powerplants is a new mod, while we have done internal testing the only real way to know where the outliers are is with public feedback. Tweaks will be made in a future update.
