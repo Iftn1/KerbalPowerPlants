@@ -4,7 +4,7 @@
 		<RootNamespace>KerbalPowerPlants</RootNamespace>
 		<AssemblyName>KerbalPowerPlants</AssemblyName>
 		<TargetFramework>net48</TargetFramework>
-		<Version>0.1.0.0</Version>
+		<Version>0.1.2.0</Version>
 		<LangVersion>latest</LangVersion>
 		<Copyright>Copyright © Halban 2026, MIT</Copyright>
 	</PropertyGroup>
