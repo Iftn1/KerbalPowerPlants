@@ -1,5 +1,5 @@
 
-# Kerbal Power Plants
+# Kerbal Powerplants
 <img width="4480" height="2080" alt="image" src="https://wiki.kerbalpowers.org/images/3/35/KPP_1.png" />
 
 ## Features
