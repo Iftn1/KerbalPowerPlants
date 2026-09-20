@@ -1,6 +1,6 @@
 
 # KerbalPowerPlants
-<img width="4480" height="2080" alt="image" src="https://github.com/user-attachments/assets/5767239f-4873-4863-aa47-dd25dcd3d990" />
+<img width="4480" height="2080" alt="image" src="https://wiki.kerbalpowers.org/images/3/35/KPP_1.png" />
 
 ## Features
 
